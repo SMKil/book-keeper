@@ -10,3 +10,5 @@ This demo demonstrates:
 - Add bookmark button that launches a modul for adding bookmark name and URL
 - Deleting individual items
 - Mobile responsive
+
+![Skjermbilde 2023-04-14 104413](https://user-images.githubusercontent.com/102183057/231994731-b972d5c3-e1ff-4914-9cea-12e843ba1072.png)
